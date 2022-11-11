@@ -1,1 +1,1 @@
-# mozart_dice_game
+# Mozart's Dice Game
